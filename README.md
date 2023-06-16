@@ -1,8 +1,4 @@
 ## Photo Editor CSE 611 ##
-* photo editing
-
-
-
 
 APIs URL information: 
 
