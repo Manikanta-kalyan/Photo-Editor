@@ -1,4 +1,5 @@
 ## Photo Editor CSE 611 ##
+<p>
 <br>
 1. Complete information about the project is present in <strong>"photo_editor_documentation"</strong>
 <br>
@@ -7,6 +8,7 @@
 [Link](https://github.com/Manikanta-kalyan/Photo-Editor/assets/63790999/1cb14946-d2ca-403a-a075-d64b73eb4dd5)
 <br>
 <br>
+</p>
 3. Demo video for the project: [Link](https://youtu.be/XeULlYU05KQ)
 
 APIs URL information: 
