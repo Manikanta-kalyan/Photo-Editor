@@ -4,7 +4,7 @@
 <br>
 <br>
 2. You can see the poster to know about the application
-![611 UB Photo Editor Poster](https://github.com/Manikanta-kalyan/Photo-Editor/assets/63790999/1cb14946-d2ca-403a-a075-d64b73eb4dd5)
+[611 UB Photo Editor Poster](https://github.com/Manikanta-kalyan/Photo-Editor/assets/63790999/1cb14946-d2ca-403a-a075-d64b73eb4dd5)
 <br>
 <br>
 
