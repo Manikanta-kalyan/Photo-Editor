@@ -1,6 +1,6 @@
 ## Photo Editor CSE 611
 <br>
-1. Complete information about the project is present in <strong>"photo_editor_documentation"</strong>
+1. Complete information about the project is present in <strong>"photo_editor_documentation"</strong> above.
 <br>
 <br>
 2. You can see the Photo Editor poster to know about the application:
