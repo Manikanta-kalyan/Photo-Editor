@@ -1,6 +1,5 @@
 ## Photo Editor CSE 611 ##
 <br>
-<br>
 complete information about the project is present in **"photo_editor_documentation"**
 <br>
 <br>
