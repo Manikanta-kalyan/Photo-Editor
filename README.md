@@ -1,4 +1,9 @@
 ## Photo Editor CSE 611 ##
+<br>
+complete information about the project is present in photo_editor_documentation
+<br>
+You can see the poster to know about the application
+<br>
 
 APIs URL information: 
 
