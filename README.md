@@ -4,10 +4,10 @@
 <br>
 <br>
 2. You can see the poster to know about the application:
-[Poster_Link](https://github.com/Manikanta-kalyan/Photo-Editor/assets/63790999/1cb14946-d2ca-403a-a075-d64b73eb4dd5)
+[Link](https://github.com/Manikanta-kalyan/Photo-Editor/assets/63790999/1cb14946-d2ca-403a-a075-d64b73eb4dd5)
 <br>
 <br>
-3. Demo video for the project: [Demo_Video_Link](https://youtu.be/XeULlYU05KQ)
+3. Demo video for the project: [Link](https://youtu.be/XeULlYU05KQ)
 
 APIs URL information: 
 
