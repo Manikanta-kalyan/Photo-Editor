@@ -1,4 +1,4 @@
-## cse611-spring2023-team-alpha ##
+## Photo Editor CSE 611 ##
 * photo editing
 
 
