@@ -7,6 +7,7 @@
 [611 UB Photo Editor Poster](https://github.com/Manikanta-kalyan/Photo-Editor/assets/63790999/1cb14946-d2ca-403a-a075-d64b73eb4dd5)
 <br>
 <br>
+3. Demo video for the project [Photo Editor Demo video](https://youtu.be/XeULlYU05KQ)
 
 APIs URL information: 
 
